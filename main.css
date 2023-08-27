@@ -1,0 +1,28 @@
+body {
+    background-image: url('images/marcela-laskoski-YrtFlrLo2DQ-unsplash.jpg');
+    background-size: cover;
+}
+.custom-navbar-brand {
+    font-size: 89px;
+    color: #FFF ;
+    font-weight: 300;
+}
+
+.allplayer{
+    display:flex;
+    gap:3cm;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2cm;
+
+}
+.card{
+    width: 5cm;
+    height: 8cm;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
